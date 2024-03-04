@@ -1,4 +1,4 @@
-## Oiie esse é o meu perfil, seja bem vindo as minhas programaçoẽs! 
+## Oii!! esse é o meu perfil, seja bem vindo as minhas programaçoẽs!! 
 
 Meu nome é Heloysa Borges
 - Estou estudando na plataforma ![Alura](https://www.alura.com.br/)
@@ -14,6 +14,6 @@ heloysa.borges.santos@escola.pr.gov.br
 
 
 
-![](
+![](https://media.tenor.com/qX1w9BtcIjYAAAAM/nick-wilde-wildehopps.gif)
 
 
